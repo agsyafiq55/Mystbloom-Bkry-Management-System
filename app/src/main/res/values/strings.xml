@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bakery Inventory Management</string>
+    <string name="login">Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="hey_there">Hey there,</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
